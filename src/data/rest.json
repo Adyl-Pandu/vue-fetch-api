@@ -1,0 +1,389 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "title": "Smart TV 4K 54",
+      "description": "Deskripsi singkat untuk produk 5, sangat keren dan bermanfaat.",
+      "price": 1686,
+      "image": "https://picsum.photos/seed/5/300/200"
+    },
+    {
+      "id": "8",
+      "title": "Kamera Mirrorless 8",
+      "description": "Deskripsi singkat untuk produk 8, sangat keren dan bermanfaat.",
+      "price": 614.65,
+      "image": "https://picsum.photos/seed/8/300/200"
+    },
+    {
+      "id": "9",
+      "title": "Smartwatch Fit 9",
+      "description": "Deskripsi singkat untuk produk 9, sangat keren dan bermanfaat.",
+      "price": 151.16,
+      "image": "https://picsum.photos/seed/9/300/200"
+    },
+    {
+      "id": "10",
+      "title": "Headphone Wireless 10",
+      "description": "Deskripsi singkat untuk produk 10, sangat keren dan bermanfaat.",
+      "price": 1992.56,
+      "image": "https://picsum.photos/seed/10/300/200"
+    },
+    {
+      "id": "11",
+      "title": "Speaker Bluetooth 11",
+      "description": "Deskripsi singkat untuk produk 11, sangat keren dan bermanfaat.",
+      "price": 525.69,
+      "image": "https://picsum.photos/seed/11/300/200"
+    },
+    {
+      "id": "12",
+      "title": "Tablet Pro 12",
+      "description": "Deskripsi singkat untuk produk 12, sangat keren dan bermanfaat.",
+      "price": 1590.71,
+      "image": "https://picsum.photos/seed/12/300/200"
+    },
+    {
+      "id": "13",
+      "title": "Keyboard Mechanical 13",
+      "description": "Deskripsi singkat untuk produk 13, sangat keren dan bermanfaat.",
+      "price": 189.65,
+      "image": "https://picsum.photos/seed/13/300/200"
+    },
+    {
+      "id": "14",
+      "title": "Mouse Gaming 14",
+      "description": "Deskripsi singkat untuk produk 14, sangat keren dan bermanfaat.",
+      "price": 1616.53,
+      "image": "https://picsum.photos/seed/14/300/200"
+    },
+    {
+      "id": "15",
+      "title": "Printer Inkjet 15",
+      "description": "Deskripsi singkat untuk produk 15, sangat keren dan bermanfaat.",
+      "price": 335.02,
+      "image": "https://picsum.photos/seed/15/300/200"
+    },
+    {
+      "id": "16",
+      "title": "Printer Laser 16",
+      "description": "Deskripsi singkat untuk produk 16, sangat keren dan bermanfaat.",
+      "price": 406.14,
+      "image": "https://picsum.photos/seed/16/300/200"
+    },
+    {
+      "id": "17",
+      "title": "Router WiFi 17",
+      "description": "Deskripsi singkat untuk produk 17, sangat keren dan bermanfaat.",
+      "price": 261.67,
+      "image": "https://picsum.photos/seed/17/300/200"
+    },
+    {
+      "id": "18",
+      "title": "SSD External 18",
+      "description": "Deskripsi singkat untuk produk 18, sangat keren dan bermanfaat.",
+      "price": 1494.65,
+      "image": "https://picsum.photos/seed/18/300/200"
+    },
+    {
+      "id": "19",
+      "title": "Harddisk Portable 19",
+      "description": "Deskripsi singkat untuk produk 19, sangat keren dan bermanfaat.",
+      "price": 1509.23,
+      "image": "https://picsum.photos/seed/19/300/200"
+    },
+    {
+      "id": "20",
+      "title": "Drone 4K 20",
+      "description": "Deskripsi singkat untuk produk 20, sangat keren dan bermanfaat.",
+      "price": 1868.41,
+      "image": "https://picsum.photos/seed/20/300/200"
+    },
+    {
+      "id": "21",
+      "title": "Console Game X 21",
+      "description": "Deskripsi singkat untuk produk 21, sangat keren dan bermanfaat.",
+      "price": 1275.52,
+      "image": "https://picsum.photos/seed/21/300/200"
+    },
+    {
+      "id": "22",
+      "title": "Console Game S 22",
+      "description": "Deskripsi singkat untuk produk 22, sangat keren dan bermanfaat.",
+      "price": 426.79,
+      "image": "https://picsum.photos/seed/22/300/200"
+    },
+    {
+      "id": "23",
+      "title": "VR Headset 23",
+      "description": "Deskripsi singkat untuk produk 23, sangat keren dan bermanfaat.",
+      "price": 1216.86,
+      "image": "https://picsum.photos/seed/23/300/200"
+    },
+    {
+      "id": "24",
+      "title": "Projector Mini 24",
+      "description": "Deskripsi singkat untuk produk 24, sangat keren dan bermanfaat.",
+      "price": 1736.6,
+      "image": "https://picsum.photos/seed/24/300/200"
+    },
+    {
+      "id": "25",
+      "title": "Powerbank Fast 25",
+      "description": "Deskripsi singkat untuk produk 25, sangat keren dan bermanfaat.",
+      "price": 838,
+      "image": "https://picsum.photos/seed/25/300/200"
+    },
+    {
+      "id": "26",
+      "title": "Charger Wireless 26",
+      "description": "Deskripsi singkat untuk produk 26, sangat keren dan bermanfaat.",
+      "price": 1266.27,
+      "image": "https://picsum.photos/seed/26/300/200"
+    },
+    {
+      "id": "27",
+      "title": "Smart Home Hub 27",
+      "description": "Deskripsi singkat untuk produk 27, sangat keren dan bermanfaat.",
+      "price": 838.48,
+      "image": "https://picsum.photos/seed/27/300/200"
+    },
+    {
+      "id": "28",
+      "title": "Lampu LED Smart 28",
+      "description": "Deskripsi singkat untuk produk 28, sangat keren dan bermanfaat.",
+      "price": 305.74,
+      "image": "https://picsum.photos/seed/28/300/200"
+    },
+    {
+      "id": "29",
+      "title": "Airpods Clone 29",
+      "description": "Deskripsi singkat untuk produk 29, sangat keren dan bermanfaat.",
+      "price": 1440.55,
+      "image": "https://picsum.photos/seed/29/300/200"
+    },
+    {
+      "id": "30",
+      "title": "Earbuds Pro 30",
+      "description": "Deskripsi singkat untuk produk 30, sangat keren dan bermanfaat.",
+      "price": 1596.88,
+      "image": "https://picsum.photos/seed/30/300/200"
+    },
+    {
+      "id": "31",
+      "title": "Smartphone Budget 31",
+      "description": "Deskripsi singkat untuk produk 31, sangat keren dan bermanfaat.",
+      "price": 1949.32,
+      "image": "https://picsum.photos/seed/31/300/200"
+    },
+    {
+      "id": "32",
+      "title": "Laptop Gaming 32",
+      "description": "Deskripsi singkat untuk produk 32, sangat keren dan bermanfaat.",
+      "price": 1543.95,
+      "image": "https://picsum.photos/seed/32/300/200"
+    },
+    {
+      "id": "33",
+      "title": "PC All in One 33",
+      "description": "Deskripsi singkat untuk produk 33, sangat keren dan bermanfaat.",
+      "price": 1307.18,
+      "image": "https://picsum.photos/seed/33/300/200"
+    },
+    {
+      "id": "34",
+      "title": "NAS Server 34",
+      "description": "Deskripsi singkat untuk produk 34, sangat keren dan bermanfaat.",
+      "price": 1440.16,
+      "image": "https://picsum.photos/seed/34/300/200"
+    },
+    {
+      "id": "35",
+      "title": "Action Camera 35",
+      "description": "Deskripsi singkat untuk produk 35, sangat keren dan bermanfaat.",
+      "price": 1862.77,
+      "image": "https://picsum.photos/seed/35/300/200"
+    },
+    {
+      "id": "36",
+      "title": "Tripod Portable 36",
+      "description": "Deskripsi singkat untuk produk 36, sangat keren dan bermanfaat.",
+      "price": 1144.83,
+      "image": "https://picsum.photos/seed/36/300/200"
+    },
+    {
+      "id": "37",
+      "title": "Stabilizer Gimbal 37",
+      "description": "Deskripsi singkat untuk produk 37, sangat keren dan bermanfaat.",
+      "price": 624.72,
+      "image": "https://picsum.photos/seed/37/300/200"
+    },
+    {
+      "id": "38",
+      "title": "Microphone Condenser 38",
+      "description": "Deskripsi singkat untuk produk 38, sangat keren dan bermanfaat.",
+      "price": 1758.28,
+      "image": "https://picsum.photos/seed/38/300/200"
+    },
+    {
+      "id": "39",
+      "title": "Webcam HD 39",
+      "description": "Deskripsi singkat untuk produk 39, sangat keren dan bermanfaat.",
+      "price": 967.96,
+      "image": "https://picsum.photos/seed/39/300/200"
+    },
+    {
+      "id": "40",
+      "title": "Capture Card 40",
+      "description": "Deskripsi singkat untuk produk 40, sangat keren dan bermanfaat.",
+      "price": 645.12,
+      "image": "https://picsum.photos/seed/40/300/200"
+    },
+    {
+      "id": "41",
+      "title": "Graphics Card 41",
+      "description": "Deskripsi singkat untuk produk 41, sangat keren dan bermanfaat.",
+      "price": 1269.09,
+      "image": "https://picsum.photos/seed/41/300/200"
+    },
+    {
+      "id": "42",
+      "title": "Motherboard Pro 42",
+      "description": "Deskripsi singkat untuk produk 42, sangat keren dan bermanfaat.",
+      "price": 1894.6,
+      "image": "https://picsum.photos/seed/42/300/200"
+    },
+    {
+      "id": "43",
+      "title": "Processor i9 43",
+      "description": "Deskripsi singkat untuk produk 43, sangat keren dan bermanfaat.",
+      "price": 603.39,
+      "image": "https://picsum.photos/seed/43/300/200"
+    },
+    {
+      "id": "44",
+      "title": "Processor Ryzen 44",
+      "description": "Deskripsi singkat untuk produk 44, sangat keren dan bermanfaat.",
+      "price": 747.97,
+      "image": "https://picsum.photos/seed/44/300/200"
+    },
+    {
+      "id": "45",
+      "title": "RAM 16GB 45",
+      "description": "Deskripsi singkat untuk produk 45, sangat keren dan bermanfaat.",
+      "price": 287.7,
+      "image": "https://picsum.photos/seed/45/300/200"
+    },
+    {
+      "id": "46",
+      "title": "RAM 32GB 46",
+      "description": "Deskripsi singkat untuk produk 46, sangat keren dan bermanfaat.",
+      "price": 764.02,
+      "image": "https://picsum.photos/seed/46/300/200"
+    },
+    {
+      "id": "47",
+      "title": "Cooling Fan RGB 47",
+      "description": "Deskripsi singkat untuk produk 47, sangat keren dan bermanfaat.",
+      "price": 1344.41,
+      "image": "https://picsum.photos/seed/47/300/200"
+    },
+    {
+      "id": "48",
+      "title": "Case Gaming 48",
+      "description": "Deskripsi singkat untuk produk 48, sangat keren dan bermanfaat.",
+      "price": 1603.33,
+      "image": "https://picsum.photos/seed/48/300/200"
+    },
+    {
+      "id": "49",
+      "title": "PSU Modular 49",
+      "description": "Deskripsi singkat untuk produk 49, sangat keren dan bermanfaat.",
+      "price": 293.51,
+      "image": "https://picsum.photos/seed/49/300/200"
+    },
+    {
+      "id": "50",
+      "title": "Smartwatch Premium 50",
+      "description": "Deskripsi singkat untuk produk 50, sangat keren dan bermanfaat.",
+      "price": 201.91,
+      "image": "https://picsum.photos/seed/50/300/200"
+    },
+    {
+      "id": "51",
+      "title": "Fitness Tracker 51",
+      "description": "Deskripsi singkat untuk produk 51, sangat keren dan bermanfaat.",
+      "price": 1864.49,
+      "image": "https://picsum.photos/seed/51/300/200"
+    },
+    {
+      "id": "52",
+      "title": "TV Box Android 52",
+      "description": "Deskripsi singkat untuk produk 52, sangat keren dan bermanfaat.",
+      "price": 1869.57,
+      "image": "https://picsum.photos/seed/52/300/200"
+    },
+    {
+      "id": "53",
+      "title": "Soundbar Dolby 53",
+      "description": "Deskripsi singkat untuk produk 53, sangat keren dan bermanfaat.",
+      "price": 774.3,
+      "image": "https://picsum.photos/seed/53/300/200"
+    },
+    {
+      "id": "54",
+      "title": "E-Reader Kindle 54",
+      "description": "Deskripsi singkat untuk produk 54, sangat keren dan bermanfaat.",
+      "price": 1276.54,
+      "image": "https://picsum.photos/seed/54/300/200"
+    },
+    {
+      "id": "55",
+      "title": "Smart Lock 55",
+      "description": "Deskripsi singkat untuk produk 55, sangat keren dan bermanfaat.",
+      "price": 1748.86,
+      "image": "https://picsum.photos/seed/55/300/200"
+    },
+    {
+      "id": "56",
+      "title": "CCTV Camera 56",
+      "description": "Deskripsi singkat untuk produk 56, sangat keren dan bermanfaat.",
+      "price": 1307.14,
+      "image": "https://picsum.photos/seed/56/300/200"
+    },
+    {
+      "id": "57",
+      "title": "Drone Mini 57",
+      "description": "Deskripsi singkat untuk produk 57, sangat keren dan bermanfaat.",
+      "price": 104.69,
+      "image": "https://picsum.photos/seed/57/300/200"
+    },
+    {
+      "id": "58",
+      "title": "Gaming Chair 58",
+      "description": "Deskripsi singkat untuk produk 58, sangat keren dan bermanfaat.",
+      "price": 1172.86,
+      "image": "https://picsum.photos/seed/58/300/200"
+    },
+    {
+      "id": "59",
+      "title": "Desk RGB 59",
+      "description": "Deskripsi singkat untuk produk 59, sangat keren dan bermanfaat.",
+      "price": 1133.5,
+      "image": "https://picsum.photos/seed/59/300/200"
+    },
+    {
+      "id": "60",
+      "title": "VR Gloves 60",
+      "description": "Deskripsi singkat untuk produk 60, sangat keren dan bermanfaat.",
+      "price": 1291.33,
+      "image": "https://picsum.photos/seed/60/300/200"
+    },
+    {
+      "id": "163a",
+      "title": "tes",
+      "description": "tes",
+      "price": 99999,
+      "image": "https://picsum.photos/seed/4/300/200"
+    }
+  ]
+}
